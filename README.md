@@ -70,4 +70,7 @@ This project equips business users and analysts with a powerful tool to:
 # Dashboard 
 ![Screenshot 2025-05-06 005023.png](https://github.com/JDutta-1294/Starbucks-Sales-Data-Analysis-Dashboard/blob/main/Screenshot%202025-05-06%20005023.png)
 
+# Feedback & Contributions
+Contributions and suggestions are welcome! Please feel free to fork the repo, raise issues, or create pull requests.
+
 
