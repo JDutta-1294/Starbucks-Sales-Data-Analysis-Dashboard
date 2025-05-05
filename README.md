@@ -59,5 +59,5 @@ The main goal of this project is to enable business stakeholders to monitor key 
   Power Query – for data transformation
 
 # Dataset Used
-- <a href="">Starbucks Sales Dataset </a>
+- <a href="https://github.com/JDutta-1294/Starbucks-Sales-Data-Analysis-Dashboard/blob/main/Starbucks%20Coffee%20Shop%20Sales%20Raw%20data.xlsx">Starbucks Sales Dataset </a>
 
