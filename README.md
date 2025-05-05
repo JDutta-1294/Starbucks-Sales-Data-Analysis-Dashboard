@@ -53,9 +53,11 @@ The main goal of this project is to enable business stakeholders to monitor key 
    Interactive tooltips showing Sales, Orders, and Quantity for each time slot.
 
 # Tools Used
-  Power BI – for interactive dashboard development
-  Excel / CSV – for data pre-processing
-  DAX – for advanced calculations and KPIs
+  Power BI – for interactive dashboard development,
+  Excel / CSV – for data pre-processing,
+  DAX – for advanced calculations and KPIs,
   Power Query – for data transformation
 
+# Dataset Used
+-<a href="">Starbucks Sales Dataset </a>
 
