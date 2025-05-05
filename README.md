@@ -62,11 +62,12 @@ The main goal of this project is to enable business stakeholders to monitor key 
 - <a href="https://github.com/JDutta-1294/Starbucks-Sales-Data-Analysis-Dashboard/blob/main/Starbucks%20Coffee%20Shop%20Sales%20Raw%20data.xlsx">Starbucks Sales Dataset </a>
 
 # Outcomes
-## This project equips business users and analysts with a powerful tool to:
-   Track monthly performance KPIs.
-   Understand sales trends across locations, days, and hours.
-   Make strategic decisions based on real-time insights.
+This project equips business users and analysts with a powerful tool to:
+  1. Track monthly performance KPIs.
+  2. Understand sales trends across locations, days, and hours.
+  3. Make strategic decisions based on real-time insights.
 
 # Dashboard 
+Screenshot 2025-05-06 005023.png
 
 
